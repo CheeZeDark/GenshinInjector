@@ -1,5 +1,7 @@
 # GenshinInjector
-DLL Injector for Genshin Impact... **Make Sure what Genshin Impact Folder in Games Folder**
+DLL Injector for Genshin Impact... **Make Sure what Genshin Impact in Games Folder**
+
+Example: C:\Games\Genshin Impact
 
 # PoC of Working Injector
 
